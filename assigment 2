@@ -1,0 +1,22 @@
+
+# 1. Write a python program that adds an int value into a float value. What is result type?
+int_value = 10        # Integer
+float_value = 3.5     # Float
+
+result = int_value + float_value
+
+print("Result:", result)
+print("Type of result:", type(result))
+
+
+# Write a python program that adds an int value into a bool value (True). What is result type?
+
+  int_value = 12  #int
+  bool_value = True # bool
+
+  result = int_value + bool_value
+
+  print("Result:", result)
+  print("Type of result:", type(result))
+  
+  

@@ -1,0 +1,9 @@
+ Implement "Hello, World" program using any text editor and execute it from command line (using Python interpreter
+>python
+> "Hello, World"
+
+
+ Write a program to calculate area of rectangle. Take fixed values for length and breadth
+length = 10  
+breadth = 4  
+print("Area of rectangle:;"area)
